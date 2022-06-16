@@ -1,0 +1,42 @@
+.contenido {
+    text-align: center;
+    display: flex;
+    margin: 60px;
+    justify-content: center;
+}
+
+.articulos {
+    text-align: center;
+    width: 80%;
+    justify-content: center;
+}
+
+.secciones {
+ text-align: center;
+ display: flex;
+ padding: 20px;
+ justify-content: center;
+}
+
+img {
+    width: 200px;
+    height: 250px;
+    object-fit: cover;
+}
+  
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+h3 {
+    text-align: start;
+    color: black;
+    padding: 10px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
